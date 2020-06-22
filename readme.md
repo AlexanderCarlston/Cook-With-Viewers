@@ -26,4 +26,4 @@ c.) Broadcaster gets prompted with 4 choices (3 viewer, one legitamate) and pick
 
 d.) Broadcaster does the chosen step.
 
-3.) Broadcaster is fineshed with the recipe.
+3.) Broadcaster is finished with the recipe.
