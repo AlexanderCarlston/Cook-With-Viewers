@@ -27,3 +27,11 @@ c.) Broadcaster gets prompted with 4 choices (3 viewer, one legitamate) and pick
 d.) Broadcaster does the chosen step.
 
 3.) Broadcaster is finished with the recipe.
+
+## Pages
+
+* Viewer Page (panel.html): viewers will be able to vote on steps for recipes.
+
+* Live Configuration Page (live_config.html): the broadcaster will be able to pick which step they want to do.
+
+* Configuration Page (config.html): the broadcaster will be able to start a recipe.
